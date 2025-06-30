@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2025-06-29 22:02:20
+Makelog started: 2025-06-30 12:39:36
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/analysis
 --------------------------------------------------------------------------------
 Input links successfully created!
@@ -10,9 +10,12 @@ Executing command: `python  "/Users/yunfe/Documents/GitHub/template_archive/anal
 /opt/anaconda3/envs/template/lib/python3.13/site-packages/linearmodels/panel/model.py:1260: MissingValueWarning: 
 Inputs contain missing values. Dropping rows with missing observations.
   super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
+/opt/anaconda3/envs/template/lib/python3.13/site-packages/linearmodels/panel/model.py:1260: MissingValueWarning: 
+Inputs contain missing values. Dropping rows with missing observations.
+  super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2025-06-29 22:02:22
+Makelog ended: 2025-06-30 12:39:39
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/analysis
 --------------------------------------------------------------------------------
