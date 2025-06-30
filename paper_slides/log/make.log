@@ -1,12 +1,11 @@
 --------------------------------------------------------------------------------
-Makelog started: 2025-05-30 15:25:01
+Makelog started: 2025-06-29 22:02:23
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
 External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
-/Users/yunfe/Documents/GitHub/template_archive/analysis/output/regression.csv
 /Users/yunfe/Documents/GitHub/template_archive/data/output/chips_sold.pdf
 Version logs successfully written!
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/yunfe/Documents/GitHub/template_archive/paper_slides/code/paper.tex"`
@@ -151,7 +150,7 @@ xmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52528 bytes).
+Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52623 bytes).
 Transcript written on ../latex_auxiliary_dir/paper.log.
 
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/yunfe/Documents/GitHub/template_archive/paper_slides/code/online_appendix.tex"`
@@ -275,7 +274,7 @@ ocal/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on ../latex_auxiliary_dir/online_appendix.pdf (1 page, 34002 byt
+Output written on ../latex_auxiliary_dir/online_appendix.pdf (1 page, 33769 byt
 es).
 Transcript written on ../latex_auxiliary_dir/online_appendix.log.
 
@@ -555,11 +554,11 @@ Package rerunfilecheck Warning: File `slides.out' has changed.
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/tex
 mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on ../latex_auxiliary_dir/slides.pdf (10 pages, 34647 bytes).
+Output written on ../latex_auxiliary_dir/slides.pdf (10 pages, 34959 bytes).
 Transcript written on ../latex_auxiliary_dir/slides.log.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2025-05-30 15:25:04
+Makelog ended: 2025-06-29 22:02:25
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/paper_slides
 --------------------------------------------------------------------------------

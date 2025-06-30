@@ -1,12 +1,10 @@
 --------------------------------------------------------------------------------
-Makelog started: 2025-05-30 15:24:59
+Makelog started: 2025-06-29 22:02:20
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/analysis
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
 Source logs successfully written!
-WARNING! The following target files have been modified according to git status:
-/Users/yunfe/Documents/GitHub/template_archive/data/output/data_cleaned.csv
 Version logs successfully written!
 Executing command: `python  "/Users/yunfe/Documents/GitHub/template_archive/analysis/code/analyze_data.py" `
 /opt/anaconda3/envs/template/lib/python3.13/site-packages/linearmodels/panel/model.py:1260: MissingValueWarning: 
@@ -15,6 +13,6 @@ Inputs contain missing values. Dropping rows with missing observations.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2025-05-30 15:25:01
+Makelog ended: 2025-06-29 22:02:22
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/analysis
 --------------------------------------------------------------------------------
