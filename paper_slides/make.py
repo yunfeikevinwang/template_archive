@@ -42,7 +42,7 @@ gs.write_version_logs(PATHS)
 
 ### FILL TABLES
 gs.tablefill(template = 'code/tables.tex', 
-             inputs   = 'input/regression.csv', 
+             inputs   = ['input/regression.csv', 'input/regression_post_1960.csv'], 
              output   = 'output/tables_filled.tex')
 
 ### RUN SCRIPTS

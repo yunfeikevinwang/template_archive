@@ -1,11 +1,12 @@
 --------------------------------------------------------------------------------
-Makelog started: 2025-06-29 22:02:23
+Makelog started: 2025-06-30 12:39:39
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
 External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
+/Users/yunfe/Documents/GitHub/template_archive/analysis/output/regression_post_1960.csv
 /Users/yunfe/Documents/GitHub/template_archive/data/output/chips_sold.pdf
 Version logs successfully written!
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/yunfe/Documents/GitHub/template_archive/paper_slides/code/paper.tex"`
@@ -79,7 +80,7 @@ ex) (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty)
 LaTeX Warning: Unused global option(s):
     [hyperfootnotes].
 
-No file paper.aux.
+(./paper.aux)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -140,17 +141,13 @@ ocal/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 [4 <../latex_auxiliary_dir/../input/chips_sold.pdf>]
 (../latex_auxiliary_dir/../output/tables_filled.tex)
 [5]
-[6] (../latex_auxiliary_dir/paper.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- )
+[6] (../latex_auxiliary_dir/paper.aux) )
 (see the transcript file for additional information)</usr/local/texlive/2025/te
 xmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52623 bytes).
+Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52702 bytes).
 Transcript written on ../latex_auxiliary_dir/paper.log.
 
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/yunfe/Documents/GitHub/template_archive/paper_slides/code/online_appendix.tex"`
@@ -559,6 +556,6 @@ Transcript written on ../latex_auxiliary_dir/slides.log.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2025-06-29 22:02:25
+Makelog ended: 2025-06-30 12:39:42
 Working directory: /Users/yunfe/Documents/GitHub/template_archive/paper_slides
 --------------------------------------------------------------------------------

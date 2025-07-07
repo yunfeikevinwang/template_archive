@@ -1,3 +1,4 @@
 destination | source
 input/regression.csv | /Users/yunfe/Documents/GitHub/template_archive/analysis/output/regression.csv
+input/regression_post_1960.csv | /Users/yunfe/Documents/GitHub/template_archive/analysis/output/regression_post_1960.csv
 input/chips_sold.pdf | /Users/yunfe/Documents/GitHub/template_archive/data/output/chips_sold.pdf
